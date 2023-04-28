@@ -22,5 +22,5 @@ spec:
       name: title
       type: text
       required: true
-      default: FAHZ - Treinamento
+      default: Treinamento - StackSpot
       help: 'Informe o título da página HTML que será gerada'
